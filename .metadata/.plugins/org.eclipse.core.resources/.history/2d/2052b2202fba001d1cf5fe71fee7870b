@@ -1,0 +1,20 @@
+class Demo
+{
+	int empid=1001;
+	void get1()
+	{
+		String empname="azar";
+	}
+	void get2()
+	{
+		
+	}
+}
+public class Sample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
